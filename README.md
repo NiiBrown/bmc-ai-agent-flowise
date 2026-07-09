@@ -207,13 +207,12 @@ Keep output clear, structured, and professional.
 
 ## Screenshots
 
-> _Add screenshots of your Flowise canvas and a live output example here_
-> `canvas_overview.png`
-> `prompt_config.png`
-> `live_output1.png`
-> `live_output2.png`
-> `live_output3.png`
-> `live_output4.png`
+> canvas_overview.png
+> prompt_config.png
+> live_output1.png
+> live_output2.png
+> live_output3.png
+> live_output4.png
 
 ---
 

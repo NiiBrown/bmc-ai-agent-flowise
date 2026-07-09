@@ -180,6 +180,10 @@ http://localhost:3000
 5. Set the input variable to `{idea}`
 6. Save and open the chat interface to test
 
+**Import the flow directly:**
+Download [`bmc_agent_flow.json`](./bmc_agent_flow.json) and import it 
+into Flowise via **Chatflows → Import** to get the full working flow instantly.
+
 **System Prompt:**
 ```
 You are a Business Model Canvas Agent.
